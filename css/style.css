@@ -142,6 +142,11 @@ a:focus {
   transform: translate3d(0, -100%, 0);
 }
 
+.active{
+  color: black;
+  background-color: rgb(58, 58, 58);
+  border-radius: 10px;
+}
 .slider_section .slider_box {
   display: flex;
   position: relative;
