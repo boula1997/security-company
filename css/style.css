@@ -99,7 +99,7 @@ a:focus {
 
 .slider_section .carousel-indicators {
   top: 50%;
-  left: -75px;
+  right: -75px;
   transform: translateY(-50%);
   display: block;
   bottom: unset;
@@ -233,7 +233,7 @@ a:focus {
 .welcome_detail h3::after {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
   content: "";
   height: 1.5px;
   width: 140px;
@@ -280,7 +280,7 @@ a:focus {
 .service_detail h3::after {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
   content: "";
   height: 1.5px;
   width: 45px;
